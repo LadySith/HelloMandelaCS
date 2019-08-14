@@ -14,11 +14,12 @@ List of all CS Students
 
 ## 3rd Year
 - Simphiwe
+- Nomsa Tsotetsi
 - Name
 - Name
 
 ## Honours
-- Sithe Ncube
+- Sithembile Ncube
 - Name
 - Name
 
