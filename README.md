@@ -3,7 +3,7 @@
 List of all CS Students
 
 ## 1st year
-- Name
+- Taylor
 - Name
 - Name
 
