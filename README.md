@@ -4,21 +4,26 @@ List of all CS Students
 
 ## 1st year
 - Michelle Nowers
+- Taylor
 - Name
 - Name
 
 ## 2nd Year
+- Adhika
 - Name
-- Name
-- Name
+- Alia Cassim
 
 ## 3rd Year
-- Name
+- Claudia Schaberg
+- Rumbidzai Gamuchirai
+- Ruvarashe
+- Simphiwe
+- Nomsa Tsotetsi
 - Name
 - Name
 
 ## Honours
-- Sithe Ncube
+- Sithembile Ncube
 - Name
 - Name
 
