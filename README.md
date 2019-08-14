@@ -10,7 +10,7 @@ List of all CS Students
 ## 2nd Year
 - Name
 - Name
-- Name
+- Alia Cassim
 
 ## 3rd Year
 - Name
