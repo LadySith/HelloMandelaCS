@@ -13,6 +13,7 @@ List of all CS Students
 - Alia Cassim
 
 ## 3rd Year
+- Claudia Schaberg
 - Rumbidzai Gamuchirai
 - Ruvarashe
 - Simphiwe
