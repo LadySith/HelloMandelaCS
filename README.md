@@ -8,7 +8,7 @@ List of all CS Students
 - Name
 
 ## 2nd Year
-- Name
+- Adhika
 - Name
 - Alia Cassim
 
