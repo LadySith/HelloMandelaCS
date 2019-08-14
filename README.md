@@ -13,6 +13,7 @@ List of all CS Students
 - Name
 
 ## 3rd Year
+- Simphiwe
 - Nomsa Tsotetsi
 - Name
 - Name
