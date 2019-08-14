@@ -13,9 +13,9 @@ List of all CS Students
 - Name
 
 ## 3rd Year
-- Name
-- Name
-- Name
+- Rumbidzai
+- Gamuchirai
+- Ruvarashe
 
 ## Honours
 - Sithe Ncube
