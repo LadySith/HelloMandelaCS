@@ -23,6 +23,7 @@ List of all CS Students
 - Name
 
 ## Honours
+- Gaylene Nakwa
 - Sithembile Ncube
 - Name
 - Name
