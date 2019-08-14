@@ -13,7 +13,7 @@ List of all CS Students
 - Name
 
 ## 3rd Year
-- Name
+- Claudia Schaberg
 - Name
 - Name
 
