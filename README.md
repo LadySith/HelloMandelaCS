@@ -3,6 +3,7 @@
 List of all CS Students
 
 ## 1st year
+- Michelle Nowers
 - Taylor
 - Name
 - Name
