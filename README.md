@@ -13,6 +13,8 @@ List of all CS Students
 - Alia Cassim
 
 ## 3rd Year
+- Rumbidzai Gamuchirai
+- Ruvarashe
 - Simphiwe
 - Nomsa Tsotetsi
 - Name
