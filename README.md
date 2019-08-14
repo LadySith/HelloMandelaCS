@@ -18,7 +18,7 @@ List of all CS Students
 - Name
 
 ## Honours
-- Sithe Ncube
+- Sithembile Ncube
 - Name
 - Name
 
