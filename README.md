@@ -10,16 +10,18 @@ List of all CS Students
 ## 2nd Year
 - Name
 - Name
-- Name
+- Alia Cassim
 
 ## 3rd Year
-- Name
+- Simphiwe
+- Nomsa Tsotetsi
 - Name
 - Name
 
 ## Honours
-- Sithe Ncube
 - Gaylene Nakwa
+- Sithembile Ncube
+- Name
 - Name
 
 Visit the [Mandela University CS website here](http://cs.mandela.ac.za/)
