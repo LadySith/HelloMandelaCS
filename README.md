@@ -19,7 +19,7 @@ List of all CS Students
 
 ## Honours
 - Sithe Ncube
-- Name
+- Gaylene Nakwa
 - Name
 
 Visit the [Mandela University CS website here](http://cs.mandela.ac.za/)
