@@ -8,7 +8,7 @@ List of all CS Students
 
 ## 2nd Year
 - Adhika
-- Alia Cassim
+- [Alia Cassim](https://github.com/caslia08)
 
 ## 3rd Year
 - Claudia Schaberg
