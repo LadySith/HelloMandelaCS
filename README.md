@@ -10,6 +10,7 @@ List of all CS Students
 - Adhika
 - Alia Cassim
 - [Mari Swartz](https://github.com/mariswartz11)
+- [Amma Grant](https://github.com/AmmaGrant
 
 ## 3rd Year
 - Claudia Schaberg
