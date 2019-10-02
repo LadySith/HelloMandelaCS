@@ -9,7 +9,7 @@ List of all CS Students
 ## 2nd Year
 - Adhika
 - Alia Cassim
--Mari Swartz https://github.com/mariswartz11
+- Mari Swartz https://github.com/mariswartz11
 
 ## 3rd Year
 - Claudia Schaberg
